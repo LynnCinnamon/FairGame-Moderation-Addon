@@ -69,6 +69,7 @@ window.moderation = {
                     "nigger",
                     "neggro",
                     "Naygor",
+                    "nigga",
                     "卐",
                 ];
                 let banned = false;
